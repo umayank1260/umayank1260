@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umayank1260
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++, DSA, OOPs and some basics of Game engines
+- 👀 I’m interested in Game Development, Machine Learning.  
+- 🌱 I’m currently learning C++, Python, DSA, OOPs and some basics of Game engines
 - 📫 You could reach me at my email - mayankupadhyay2004@gmail.com
 
 <!---
